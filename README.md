@@ -46,8 +46,8 @@ const aaron = {
 ### 📊 `> stats --verbose`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=truvch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=truvch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=8" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=truvch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&count_private=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=truvch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=8" />
 </p>
 
 <p align="center">

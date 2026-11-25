@@ -89,7 +89,7 @@ const beyonder = {
 <br/>
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i><br/>
+  <i>"Fate never repeats itself indefinitely. It always brings us some surprises."</i><br/>
   <sub>🕯️ The Tarot Club convenes every Monday at 3 PM. Leave a ⭐ as your offering.</sub>
 </p>
 
